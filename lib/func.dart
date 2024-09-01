@@ -22,6 +22,7 @@ int power(int x, int y) {
   return x ^ y;
 }
 
+void bla() {}
 int factorial(int x) {
   if (x == 0) {
     return 1;
